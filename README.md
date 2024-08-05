@@ -90,6 +90,7 @@ github repo
 ## Authors
 
 * Iain Mosima, [IainMosima](https://github.com/IainMosima)
+* Marwan Ashraf, [Marwan Ashraf](https://github.com/MarwanAshraf03)
 
 ## License
 
